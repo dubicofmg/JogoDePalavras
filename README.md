@@ -1,2 +1,2 @@
 # JogoDePalavras
-Projeto em Java que replica a lógica do jogo "termo", disponível na web e como app.  
+Projeto em Java que replica a lógica e a interface principal do jogo "termo", disponível na web e mobile.  
